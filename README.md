@@ -145,12 +145,12 @@ Finally, we want to thank everyone who helped us gather the essential data and i
 
 We are grateful for all the contributions, even if it was a tiniest bit.
 
-[contributors-shield]: https://img.shields.io/github/contributors/NotDhruvK/EzPay.svg?style=for-the-badge
-[contributors-url]: https://github.com/NotDhruvK/EzPay/contributors
-[forks-shield]: https://img.shields.io/github/forks/NotDhruvK/EzPay.svg?style=for-the-badge
-[forks-url]: https://github.com/NotDhruvK/EzPay/network/members
-[stars-shield]: https://img.shields.io/github/stars/NotDhruvK/EzPay.svg?style=for-the-badge
-[stars-url]: https://github.com/NotDhruvK/EzPay/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NotDhruvK/EzPay.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NotDhruvK/ezPay.svg?style=for-the-badge
+[contributors-url]: https://github.com/NotDhruvK/ezPay/contributors
+[forks-shield]: https://img.shields.io/github/forks/NotDhruvK/ezPay.svg?style=for-the-badge
+[forks-url]: https://github.com/NotDhruvK/ezPay/network/members
+[stars-shield]: https://img.shields.io/github/stars/NotDhruvK/ezPay.svg?style=for-the-badge
+[stars-url]: https://github.com/NotDhruvK/ezPay/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NotDhruvK/ezPay.svg?style=for-the-badge
 [issues-url]: https://github.com/NotDhruvK/EzPay/issues
 
