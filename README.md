@@ -12,9 +12,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/medhavisinha/EzPay/issues">Report Bug</a>
+    <a href="https://github.com/NotDhruvK/EzPay/issues">Report Bug</a>
     ·
-    <a href="https://github.com/medhavisinha/EzPay/issues">Request Feature</a>
+    <a href="https://github.com/NotDhruvK/EzPay/issues">Request Feature</a>
     ·
   </p>
 </p>
@@ -74,7 +74,7 @@ For getting started with this project, one needs to install the following to sta
 * Installation of Android Studio, Room DB.
 * Installation of Complier.
 
-[contributors-shield]: https://img.shields.io/github/contributors/medhavisinha/EzPay.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NotDhruvK/EzPay.svg?style=for-the-badge
 [contributors-url]: https://github.com/NotDhruvK/EzPay/contributors
 [forks-shield]: https://img.shields.io/github/forks/NotDhruvK/EzPay.svg?style=for-the-badge
 [forks-url]: https://github.com/NotDhruvK/EzPay/network/members
