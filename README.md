@@ -89,12 +89,12 @@ and can provide a convenient way for people to pay each other back.
 
 1. The main feature is the ability to quickly and easily divide up bills between a group of people.
 This feature is often used when people are out to dinner, or when a group of people are splitting up a shared expense. 
-EzPay allows users to specify how much each person is responsible for, 
+ezPay allows users to specify how much each person is responsible for, 
 and can also track payments to ensure that everyone pays their fair share.
 
 2. The application can also be used to track shared expenses over a period of time. This can be useful when people are sharing a house or an apartment, or when people are splitting up the cost of a vacation. The application can also be used to track expenses related to a business, such as when contractors are hired to do a job.
 
-3. The application can also provide users with a convenient way to pay each other back. This can be done through a variety of methods, such as GPay, PayTM, PayPal, or even direct bank transfers. This can be especially helpful if a user does not have enough cash on hand to pay for their portion of the bill.
+3. The application can also provide users with a convenient way to pay each other back. This can be done through a variety of methods, such as GPay, Paytm, PayPal, or even direct bank transfers. This can be especially helpful if a user does not have enough cash on hand to pay for their portion of the bill.
 
 <!-- SYSTEM REQUIREMENTS -->
 ## System Requirements
