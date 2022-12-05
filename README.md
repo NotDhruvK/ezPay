@@ -62,7 +62,6 @@ We used the following mainly for our application:
 * Room DB
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -128,7 +127,7 @@ it may be difficult for users to pay for goods and services in different currenc
 We are open to suggestions and feedbacks! Do reach out to us via our emails. We would love to hear a word from you!
 
 <!-- CONNECT WITH US -->
-### Connect with Us
+## Connect with Us
 
 Reach out to us via our email IDs:
 1. Prasad Parab: prasadparab1602@gmail.com
@@ -136,7 +135,7 @@ Reach out to us via our email IDs:
 3. Dhruv Kadam: dhruvadam@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
-### Acknowledgements
+## Acknowledgements
 
 We would like to express our heartfelt appreciation to everyone who helped us tremendously during this research project. Mr. Umang J Patel, our professor, deserves special recognition for his invaluable guidance, support, and encouragement throughout the project. His comprehension, knowledge, and exacting attention to detail have been an inspiration and have kept our work on track from our first encounter with the presentation of the application idea to the final document of this paper. 
 
