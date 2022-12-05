@@ -124,12 +124,12 @@ it may be difficult for users to pay for goods and services in different currenc
 <!-- CONTRIBUTING -->
 ## Contributing
 
-We are open to suggestions and feedbacks! Do reach out to us via our emails. We would love to hear a word from you!
+We are open to suggestions and feedbacks! Do reach out to us via our e-mail IDs. We would love to hear a word from you!
 
 <!-- CONNECT WITH US -->
 ## Connect with Us
 
-Reach out to us via our email IDs:
+Reach out to us via our e-mail IDs:
 1. Prasad Parab: prasadparab1602@gmail.com
 2. Medhavi Sinha: onemoremedhavi@gmail.com
 3. Dhruv Kadam: dhruvadam@gmail.com
