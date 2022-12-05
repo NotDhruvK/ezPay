@@ -1,11 +1,11 @@
-# EzPay
+# ezPay
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
 <!-- Project Name -->
- <h3 align="center">EzPay</h3>
+ <h3 align="center">ezPay</h3>
 
   <p align="center">
     A mobile application developed and designed to quickly and easily divide up bills between a group of people.
@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-EzPay is a mobile application that allows users to split bills with other people. 
+ezPay is a mobile application that allows users to split bills with other people. 
 The application allows users to create a bill, add other users to the bill, and split the cost of the bill among the users. 
 
 Features:
@@ -80,7 +80,7 @@ For getting started with this project, one needs to install the following to sta
 <!-- INTRODUCTION -->
 ## Introduction
 
-EzPay is a bill splitting mobile application which allows users to easily and accurately split up bills among a group of people. 
+ezPay is a bill splitting mobile application which allows users to easily and accurately split up bills among a group of people. 
 This application allows users to quickly and easily keep track of which people owe what,
 and can provide a convenient way for people to pay each other back.
 
@@ -100,7 +100,7 @@ and can also track payments to ensure that everyone pays their fair share.
 ## System Requirements
 
 The app is designed to work on Android phones. 
-The application requires an internet connection to access the features and permission to contact list. 
+It requires an internet connection to access the features and permission to contact list. 
 
 <!-- SECURITY -->
 ## Security
@@ -112,12 +112,12 @@ The application also has built-in measures to protect against malicious attacks.
 ## Benefits and Drawbacks
 
 Benefits:
-The primary benefit of using EzPay is that it makes it easy for users to split payments among a group of people. 
+The primary benefit of using ezPay is that it makes it easy for users to split payments among a group of people. 
 This eliminates the need for manual calculations and makes it much easier to keep track of who has paid and who still owes money. 
 Additionally, the ability to store payment information, track payments, and generate reports makes it much easier to manage finances.
 
 Drawbacks:
-There are a few drawbacks to using EzPay. 
+There are a few drawbacks to using ezPay. 
 One of the main drawbacks is that if the application does not support multiple currencies, 
 it may be difficult for users to pay for goods and services in different currencies.
 
