@@ -73,7 +73,7 @@ For getting started with this project, one needs to install the following to sta
 
 ### Prerequisites
 
-* You'll need a brief knowledge about Java.
+* You'll need a brief knowledge about Java and XML.
 * Installation of Android Studio, Room DB.
 * Installation of Complier.
 
