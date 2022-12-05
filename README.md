@@ -78,13 +78,15 @@ For getting started with this project, one needs to install the following to sta
 * Installation of Android Studio, Room DB.
 * Installation of Complier.
 
-### Introduction
+<!-- INTRODUCTION -->
+## Introduction
 
 EzPay is a bill splitting mobile application which allows users to easily and accurately split up bills among a group of people. 
 This application allows users to quickly and easily keep track of which people owe what,
 and can provide a convenient way for people to pay each other back.
 
-### Features
+<!-- FEATURES -->
+## Features
 
 1. The main feature is the ability to quickly and easily divide up bills between a group of people.
 This feature is often used when people are out to dinner, or when a group of people are splitting up a shared expense. 
@@ -95,17 +97,20 @@ and can also track payments to ensure that everyone pays their fair share.
 
 3. The application can also provide users with a convenient way to pay each other back. This can be done through a variety of methods, such as GPay, PayTM, PayPal, or even direct bank transfers. This can be especially helpful if a user does not have enough cash on hand to pay for their portion of the bill.
 
-### System Requirements
+<!-- SYSTEM REQUIREMENTS -->
+## System Requirements
 
 The app is designed to work on Android phones. 
 The application requires an internet connection to access the features and permission to contact list. 
 
-### Security
+<!-- SECURITY -->
+## Security
 
 The app is designed with security in mind. All data is encrypted and stored securely. 
 The application also has built-in measures to protect against malicious attacks.
 
-### Benefits and Drawbacks
+<!-- BENEFITS AND DRAWBACKS -->
+## Benefits and Drawbacks
 
 Benefits:
 The primary benefit of using EzPay is that it makes it easy for users to split payments among a group of people. 
@@ -117,10 +122,12 @@ There are a few drawbacks to using EzPay.
 One of the main drawbacks is that if the application does not support multiple currencies, 
 it may be difficult for users to pay for goods and services in different currencies.
 
-### Contributing
+<!-- CONTRIBUTING -->
+## Contributing
 
 We are open to suggestions and feedbacks! Do reach out to us via our emails. We would love to hear a word from you!
 
+<!-- CONNECT WITH US -->
 ### Connect with Us
 
 Reach out to us via our email IDs:
@@ -128,6 +135,7 @@ Reach out to us via our email IDs:
 2. Medhavi Sinha: onemoremedhavi@gmail.com
 3. Dhruv Kadam: dhruvadam@gmail.com
 
+<!-- ACKNOWLEDGMENTS -->
 ### Acknowledgements
 
 We would like to express our heartfelt appreciation to everyone who helped us tremendously during this research project. Mr. Umang J Patel, our professor, deserves special recognition for his invaluable guidance, support, and encouragement throughout the project. His comprehension, knowledge, and exacting attention to detail have been an inspiration and have kept our work on track from our first encounter with the presentation of the application idea to the final document of this paper. 
