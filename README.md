@@ -36,7 +36,7 @@
     <li><a href="#security">Security</a></li>
     <li><a href="#benefitsanddrawbacks">Benefits and Drawbacks</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#connectwithus">Connect with Us</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -121,7 +121,7 @@ it may be difficult for users to pay for goods and services in different currenc
 
 We are open to suggestions and feedbacks! Do reach out to us via our emails. We would love to hear a word from you!
 
-### Contact
+### Connect with Us
 
 Reach out to us via our email IDs:
 1. Prasad Parab: prasadparab1602@gmail.com
