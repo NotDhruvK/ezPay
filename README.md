@@ -75,11 +75,11 @@ For getting started with this project, one needs to install the following to sta
 * Installation of Complier.
 
 [contributors-shield]: https://img.shields.io/github/contributors/medhavisinha/EzPay.svg?style=for-the-badge
-[contributors-url]: https://github.com/medhavisinha/EzPay/contributors
-[forks-shield]: https://img.shields.io/github/forks/medhavisinha/EzPay.svg?style=for-the-badge
-[forks-url]: https://github.com/medhavisinha/EzPay/network/members
-[stars-shield]: https://img.shields.io/github/stars/medhavisinha/EzPay.svg?style=for-the-badge
-[stars-url]: https://github.com/medhavisinha/EzPay/stargazers
-[issues-shield]: https://img.shields.io/github/issues/medhavisinha/EzPay.svg?style=for-the-badge
-[issues-url]: https://github.com/medhavisinha/EzPay/issues
+[contributors-url]: https://github.com/NotDhruvK/EzPay/contributors
+[forks-shield]: https://img.shields.io/github/forks/NotDhruvK/EzPay.svg?style=for-the-badge
+[forks-url]: https://github.com/NotDhruvK/EzPay/network/members
+[stars-shield]: https://img.shields.io/github/stars/NotDhruvK/EzPay.svg?style=for-the-badge
+[stars-url]: https://github.com/NotDhruvK/EzPay/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NotDhruvK/EzPay.svg?style=for-the-badge
+[issues-url]: https://github.com/NotDhruvK/EzPay/issues
 
